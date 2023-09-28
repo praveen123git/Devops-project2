@@ -4,3 +4,4 @@
 <h2> Dont take tension kittappa </h2>
 <h2> Project is running success </h2>
 <h2> Happy eid </h2>
+<h2> Friday is Karnataka bandh</h2>
